@@ -1,0 +1,4 @@
+Type: CNAME
+Value: www.pepper4lifetime.com
+TTL: 3600 seconds
+
